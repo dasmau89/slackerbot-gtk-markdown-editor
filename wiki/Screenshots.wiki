@@ -1,1 +1,2 @@
 = Screenshots =
+[http://slackerbot.com/static/images/screenshot.png]
